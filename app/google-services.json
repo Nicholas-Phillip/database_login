@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "566158756587",
+    "firebase_url": "https://solarcontrollerproject.firebaseio.com",
+    "project_id": "solarcontrollerproject",
+    "storage_bucket": "solarcontrollerproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566158756587:android:0036c2b4b23dbe7462ccae",
+        "android_client_info": {
+          "package_name": "com.example.solarcontrollerproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566158756587-9f7qteik65dn2cun3kv2ctos44us6ad7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrenE6tyv0vsXev31fKUTHLlqhuszMNzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566158756587-9f7qteik65dn2cun3kv2ctos44us6ad7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
